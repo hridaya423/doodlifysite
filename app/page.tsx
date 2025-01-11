@@ -158,7 +158,7 @@ const LandingPage: React.FC = () => {
             <p className="text-xl text-gray-300 mb-8">
               Express your creativity with our intuitive doodling extension
             </p>
-            <a href="" >
+            <a href="https://chromewebstore.google.com/detail/doodlify/hdaanjheppnaodekeagjfjdnhnofigfp?authuser=8&hl=en-GB" >
             <motion.button
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.95 }}
@@ -257,7 +257,7 @@ const LandingPage: React.FC = () => {
           <p className="text-xl mb-8 opacity-90">
             No sign-up required. Start drawing instantly.
           </p>
-          <a href="">
+          <a href="https://chromewebstore.google.com/detail/doodlify/hdaanjheppnaodekeagjfjdnhnofigfp?authuser=8&hl=en-GB">
           <motion.button
             whileHover={{ scale: 1.05 }}
             whileTap={{ scale: 0.95 }}
